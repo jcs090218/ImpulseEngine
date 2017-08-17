@@ -7,14 +7,14 @@ at the same time. I already have the basic programming skills
 while I code this project. I decide to port this project
 because I do not want to just learn the programming language
 without making meaningful program. Hope this project help
-other people who also have the same circumstance as mine.
+other people who also have the same circumstance as mine. <br/><br/>
 
 
-** Original Author: **
-C++: https://github.com/tutsplus/ImpulseEngine (Randy Gaul)
+** Original Author: ** <br/>
+C++: https://github.com/tutsplus/ImpulseEngine (Randy Gaul) <br/><br/>
 
-** Other Programming Laguage Port: **
-Java: https://github.com/ClickerMonkey/ImpulseEngine (Philip Diffenderfer)
+** Other Programming Laguage Port: ** <br/>
+Java: https://github.com/ClickerMonkey/ImpulseEngine (Philip Diffenderfer) <br/><br/>
 
 ### Screen Shot ###
 <img src="./screen_shot/screen_shot_01.png"/>
