@@ -15,9 +15,9 @@ sys.path.append(jcspygm_egg_path)
 
 
 # -------------------------
-# Absolute Path
+# For release version
 
 # If you want export to executable need to use absolute path.
-jcspygm_egg_abs_path = "C:/DataBase_Enterprise/Asia/ALDES/ALDES_Entertainment/BaseEngine/Eclipse_Neon/JCSPyGm_Physics/lib/jcspygm-1.0.2-py2.7.egg"
+jcspygm_egg_abs_path = "./jcspygm-1.0.2-py2.7.egg"
 
 sys.path.append(jcspygm_egg_abs_path)
