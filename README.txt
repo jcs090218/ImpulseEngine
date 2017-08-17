@@ -22,10 +22,10 @@ other people who also have the same circumstance as mine.
 
 
 ** Original Author: **
-   C++: https://github.com/tutsplus/ImpulseEngine (Randy Gaul)
+C++: https://github.com/tutsplus/ImpulseEngine (Randy Gaul)
 
 ** Other Programming Laguage Port: **
-   Java: https://github.com/ClickerMonkey/ImpulseEngine (Philip Diffenderfer)
+Java: https://github.com/ClickerMonkey/ImpulseEngine (Philip Diffenderfer)
 
 ### Screen Shot ###
-![]()
+<img src="./screen_shot/screen_shot_01.png"/>
