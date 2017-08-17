@@ -8,5 +8,8 @@
 #  ========================================================================
 
 
+# ignore these extension
+*.pyc
+
 # ignore these directory
-/lib
+/build
