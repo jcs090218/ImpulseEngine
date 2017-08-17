@@ -1,14 +1,3 @@
-# ========================================================================
-# $File: README.txt $
-# $Date: 2017-08-16 17:31:51 $
-# $Revision: $
-# $Creator: Jen-Chieh Shen $
-# $Version Control Page: https://github.com/jcs090218/ImpulseEngine $
-# $Notice: See LICENSE.txt for modification and distribution information
-#                   Copyright (c) 2017 by Shen, Jen-Chieh $
-# ========================================================================
-
-
 # Impule Engine #
 
 This is un-official port of Impulse Engine Created by Jen-Chieh Shen
