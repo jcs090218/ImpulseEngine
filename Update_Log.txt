@@ -1,0 +1,31 @@
+# ========================================================================
+# $File: Update_Log.txt $
+# $Creator: Jen-Chieh Shen <jcs090218@gmail.com> $
+# $Date: 2017-01-15 $
+# $Notice: See LICENSE.txt for modification and distribution information
+# $                 Copyright (c) 2017 by Shen, Jen-Chieh $
+# ========================================================================
+
+
+2017-08-14
+* Keep porting the project 'impulse-engine'. (JCSPyGm_Physics)
+* Better structure of the code. (JCSPyGm_Physics)
+
+2017-08-13
+* Add more functions in manifold class. (JCSPyGm_Physics)
+* Add more functions in rigidbody class. (JCSPyGm_Physics)
+* Add more functions in collision class. (JCSPyGm_Physics)
+* Add more functions in jcs_math class. (JCSPyGm_Physics)
+
+2017-08-12
+* Start the basic math and physics function. (JCSPyGm_Physics)
+* Refactor the project file structure. (JCSPyGm_Physics)
+
+2017-08-11
+* Restart the project and start reading the tutorial 
+ online. (JCSPyGm_Physics) 
+
+2017-01-15
+* Success using JCSPyGm Library's egg file in the 
+ project. (JCSPyGm_Physics)
+* Start the project. (JCSPyGm_Physics)
