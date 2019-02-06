@@ -1,7 +1,8 @@
-# Impule Engine #
-
 [![Build Status](https://travis-ci.com/jcs090218/ImpulseEngine.svg?branch=master)](https://travis-ci.com/jcs090218/ImpulseEngine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+# Impule Engine #
 
 This is un-official port of Impulse Engine Created by Jen-Chieh Shen
 
@@ -19,5 +20,6 @@ C++: https://github.com/tutsplus/ImpulseEngine (Randy Gaul) <br/><br/>
 ** Other Programming Laguage Port: ** <br/>
 Java: https://github.com/ClickerMonkey/ImpulseEngine (Philip Diffenderfer) <br/><br/>
 
-### Screen Shot ###
+
+## Screenshot ##
 <img src="./screen_shot/screen_shot_01.png"/>
